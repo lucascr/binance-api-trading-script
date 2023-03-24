@@ -1,3 +1,7 @@
+// Author: Lucas Wiessel
+// Date: 2023-03-24
+
+
 //Command Line
 //node index.js b
 //node index.js c a
