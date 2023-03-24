@@ -1,3 +1,6 @@
+// Author: Lucas Wiessel
+// Date: 2023-03-24
+
 //node future.js l 25840
 
 const Binance = require('binance-api-node').default;
